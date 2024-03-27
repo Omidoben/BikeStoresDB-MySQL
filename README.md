@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project involves analyzing the Bike stores database to gain valuable insights into the company's performance over time. The analysis includes various SQL queries and actions performed on the dataset to answer specific business questions and generate meaningful reports.
+This project involves analyzing the Bike stores database to gain valuable insights into the company's performance over time. The analysis includes various SQL queries and actions performed on the dataset to answer specific business questions and generate meaningful reports. I then visualized the data using Tableau and created a Sales Overview dashboard. Check out the Bike Stores Dashboard here: https://public.tableau.com/app/profile/benard.omido/viz/BikeStoresDashBoard_17114685129160/BikeStoresDashBoard
 
 
 
